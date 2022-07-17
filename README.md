@@ -1,4 +1,4 @@
-# Ronaldinho statue cost calculator
+# Ronaldinho statue
 
 This program receives a piece and its material, the dimensions of the piece and the shop which the piece was bought. These pieces(spheres, cylinders, cobble) are needed to build a statue of Ronaldinho.
 
